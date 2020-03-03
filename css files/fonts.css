@@ -1,0 +1,9 @@
+@font-face{
+    font-family: "ninoBold";
+    src: url("../fonts/bpgninomtavruliboldwebfont.ttf");
+    src: url('../fonts/bpgninomtavruliboldwebfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpgninomtavruliboldwebfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpgninomtavruliboldwebfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpgninomtavruliboldwebfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpgninomtavruliboldwebfont.svg#bpg_nino_mtavrulibold') format('svg'); /* Legacy iOS */
+}
